@@ -1,0 +1,1 @@
+Mini project for a custom PDF viewer with pdf.js.
